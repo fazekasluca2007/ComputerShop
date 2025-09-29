@@ -1,0 +1,67 @@
+﻿<Window x:Class="ComputerShop.Page1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ComputerShop"
+        mc:Ignorable="d"
+        Title="ComputerShop" Height="450" Width="500">
+    <Grid Margin="50,20,50,100">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="80"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3"
+           Content="JELENTKEZZ BE!"
+           FontWeight="Bold"
+           FontSize="20"
+           FontFamily="Times New Roman"
+           HorizontalAlignment="Center"
+               Foreground="DarkRed"
+    />
+        <Label Grid.Row="1"
+        Grid.Column="0"
+        Content="Felhasználónév: "
+        FontWeight="Bold"
+        FontFamily="Times New Roman"
+        FontSize="15"
+    />
+        <Label Grid.Row="2"
+        Grid.Column="0"
+        Content="Jelszó: "
+        FontWeight="Bold"
+        FontFamily="Times New Roman"
+        FontSize="15"
+    />
+        <StackPanel Grid.Row="3" Grid.Column="1" Margin="20">
+            <Button
+               Content="Belépés"
+               FontWeight="Bold"
+               FontFamily="Times New Roman"
+               FontSize="15"
+               Width="70"
+               HorizontalAlignment="Right"
+               Foreground="White"
+                Background="Green"
+               />
+        </StackPanel>
+        <TextBox
+                Grid.Row="1"
+                FontWeight="Bold"
+                FontSize="15" Margin="133,0,0,0" Grid.ColumnSpan="2"
+                />
+        <PasswordBox
+                 Grid.Row="1"
+                 FontSize="15" Grid.ColumnSpan="2" Margin="133,26,0,0" Grid.RowSpan="2"
+                />
+
+    </Grid>
+</Window>

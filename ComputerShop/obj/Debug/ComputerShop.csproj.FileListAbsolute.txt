@@ -1,0 +1,15 @@
+U:\Backend\2025.09.29\ComputerShop\ComputerShop\bin\Debug\ComputerShop.exe.config
+U:\Backend\2025.09.29\ComputerShop\ComputerShop\bin\Debug\ComputerShop.exe
+U:\Backend\2025.09.29\ComputerShop\ComputerShop\bin\Debug\ComputerShop.pdb
+U:\Backend\2025.09.29\ComputerShop\ComputerShop\obj\Debug\ComputerShop.csproj.AssemblyReference.cache
+U:\Backend\2025.09.29\ComputerShop\ComputerShop\obj\Debug\MainWindow.g.cs
+U:\Backend\2025.09.29\ComputerShop\ComputerShop\obj\Debug\App.g.cs
+U:\Backend\2025.09.29\ComputerShop\ComputerShop\obj\Debug\ComputerShop_MarkupCompile.cache
+U:\Backend\2025.09.29\ComputerShop\ComputerShop\obj\Debug\ComputerShop_MarkupCompile.lref
+U:\Backend\2025.09.29\ComputerShop\ComputerShop\obj\Debug\MainWindow.baml
+U:\Backend\2025.09.29\ComputerShop\ComputerShop\obj\Debug\ComputerShop.g.resources
+U:\Backend\2025.09.29\ComputerShop\ComputerShop\obj\Debug\ComputerShop.Properties.Resources.resources
+U:\Backend\2025.09.29\ComputerShop\ComputerShop\obj\Debug\ComputerShop.csproj.GenerateResource.cache
+U:\Backend\2025.09.29\ComputerShop\ComputerShop\obj\Debug\ComputerShop.csproj.CoreCompileInputs.cache
+U:\Backend\2025.09.29\ComputerShop\ComputerShop\obj\Debug\ComputerShop.exe
+U:\Backend\2025.09.29\ComputerShop\ComputerShop\obj\Debug\ComputerShop.pdb
