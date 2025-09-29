@@ -63,3 +63,5 @@ C:\Users\FazekasL\source\repos\2025.09.29\ComputerShop\ComputerShop\obj\Debug\Co
 C:\Users\FazekasL\source\repos\2025.09.29\ComputerShop\ComputerShop\obj\Debug\ComputerShop.csproj.GenerateResource.cache
 C:\Users\FazekasL\source\repos\2025.09.29\ComputerShop\ComputerShop\obj\Debug\ComputerShop.csproj.CoreCompileInputs.cache
 C:\Users\FazekasL\source\repos\2025.09.29\ComputerShop\ComputerShop\obj\Debug\Computer.0350A5DA.Up2Date
+C:\Users\FazekasL\source\repos\2025.09.29\ComputerShop\ComputerShop\obj\Debug\Page2.g.cs
+C:\Users\FazekasL\source\repos\2025.09.29\ComputerShop\ComputerShop\obj\Debug\Page2.baml
